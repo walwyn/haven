@@ -43,6 +43,7 @@ namespace ConsoleApplication
 
             //B b = new B();
 
+
             SomeClass s1 = new SomeClass();
             s1.Number1 = 12;
 
